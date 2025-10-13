@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Large data or logs
+*.csv
+*.xlsx
+*.zip
+*.log
+
+# Temporary Streamlit files
+.streamlit/
